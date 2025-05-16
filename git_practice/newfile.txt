@@ -1,2 +1,2 @@
 This is just for practicing 
-we do not know much about git
+we know much about git.
